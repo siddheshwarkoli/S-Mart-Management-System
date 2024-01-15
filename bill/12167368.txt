@@ -1,0 +1,20 @@
+
+        	Welcome To Siddhu's Mart
+	      Bijapur-416404
+
+===================================
+ Customer Name: Atharva
+ Ph no. :987654321
+ Bill No.:12167368	Date:12/06/2023
+===================================
+ Product Name		   QTY      Price
+===================================
+        
+Samsung Galaxy A51			1   25000.0
+===================================
+ Bill Amount		        Rs.25000.0
+ Discount		        Rs.1250.0
+ Net Pay		        Rs.23750.0
+===================================
+
+        

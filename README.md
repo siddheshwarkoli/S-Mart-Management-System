@@ -1,4 +1,5 @@
 # S-Mart-Management-System<br>
+(Inventory Management System)<br>
 Steps To Run This Project "S-Mart Management System"<br>
 1) Download The Complete File<br>
 2) Extract Zip file <br>

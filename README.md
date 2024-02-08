@@ -14,3 +14,10 @@ Steps To Run This Project "S-Mart Management System"<br>
 5) Run The Login Page <br>-->  Username : 123  <br>
                       -->  Password : 1234
 
+Project Name : S-Mart Management System <br>
+Language Used : Python <br>
+Database : SQLite<br>
+Developed By : Siddheshwar Koli<br>
+Contact By : siddheshwarkoli10@gmail.com<br>
+<br>
+<br>

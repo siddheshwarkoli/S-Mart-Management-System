@@ -145,8 +145,6 @@ class Login_System:
     #     self.otp=str(time.strftime("%H%M%S"))+str(time.strftime("%S"))
     #     print(self.otp)
         
-    
-
 root=Tk()
 obj=Login_System(root)
 root.mainloop()

@@ -1,0 +1,21 @@
+
+        	Welcome To Siddhu's Mart
+	      Bijapur-416404
+
+===================================
+ Customer Name: Vaishnavi Koli
+ Ph no. :9876543210
+ Bill No.:19223943	Date:19/04/2026
+===================================
+ Product Name		   QTY      Price
+===================================
+        
+Samsung Galaxy A51			4   100000.0
+nootbook			2   100.0
+===================================
+ Bill Amount		        Rs.100100.0
+ Discount		        Rs.5005.0
+ Net Pay		        Rs.95095.0
+===================================
+
+        
